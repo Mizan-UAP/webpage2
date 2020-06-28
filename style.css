@@ -48,3 +48,10 @@ footer {
     //float: left;
     display: inline-block;
 }
+p:hover{
+    background-color: rgba(31, 212, 137, 0.692);
+    padding: 10px;
+   }
+   li:nth-child(2n){
+       background-color: rgb(210, 210, 252);
+   }
