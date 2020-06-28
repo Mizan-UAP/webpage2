@@ -1,0 +1,50 @@
+h1 {
+    color: black;
+    background-color: rgba(26, 26, 77, 0.781);
+    height: 80px;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    background-color: rgba(105, 11, 11, 0.781);
+    height: 30px;
+    text-align: center;
+}
+
+img {
+    height="800"width="700"class="center"
+    height: 800px;
+    width: 700px;
+    text-align: center;
+
+}
+
+ul {
+    font-size: small;
+    font-weight: 400;
+    font-style: italic;
+}
+
+footer {
+    color: black;
+    background-color: rgba(44, 184, 177, 0.664);
+    height: 50px;
+    text-align: center;
+
+}
+
+.comment {
+    border: 5px solid black;
+    margin-left: 900px;
+    padding-right: 20px;
+}
+
+.footer {
+    padding-top: 10px;
+}
+
+.float {
+    //float: left;
+    display: inline-block;
+}
